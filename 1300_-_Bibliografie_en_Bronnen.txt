@@ -10,6 +10,8 @@ Gemaakt maandag 15 februari 2021
 * https://www.kno.nl/patienten-informatie/oor/plotselinge-doofheid/
 * https://www.uzleuven.be/nl/gehoorverlies
 * https://nl.wikipedia.org/wiki/Dovenschool#Dovenscholen_in_Belgi%C3%AB
+* https://www.onderwijskiezer.be/v2/basis/basis_buo_detail.php?detail=20
+* https://www.belgium.be/nl/Leren/onderwijs/buitengewoon_onderwijs
 
 == bestanden en pdf's die ik heb gelezen: ==
 * https://assets.vlor.be/www.vlor.be/import/ar-wg_odsh-doc-009_versie_website.pdf
@@ -19,3 +21,5 @@ Gemaakt maandag 15 februari 2021
 == boeken : ==
 * Wyts, Ben (2005). Over Narren, kreupelen, doven en blinden : Leven met een handicap : Van de oudheid tot nu. Blijde-Imkomststraat 79-81,3000 Leuven : Uitgeverij Davidsfonds NV. ISBN : 90-5826-377-0 .
 
+== Diagrammen en beelden : ==
+* https://richtlijnen.nhg.org/standaarden/slechthorendheid - stroomdiagram1 voor kinderen met slechthorendheid
