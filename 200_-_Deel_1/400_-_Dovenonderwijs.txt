@@ -50,13 +50,20 @@ Bij kinderen die een spraak- of taalstoornis hebben maar niet voldoen aan type 2
 === 2.2 toelating tot BuBaO type 7 ( buitengewoon basisonderwijs Type 7) ===
 Eens de medische testen achter de rug zijn wordt er een verslag geschreven door het CLB. Dit noemen we het verslag voor toegang tot het buitengewoon onderwijs. Het bestaat uit 2 delen, deel 1 is het attest en deel 2 is het verantwoordingsprotocol. In het eerste deel bevinden zich de gegevens van de leerling en de types van buitengewoon onderwijs waar de leerling kan worden ingeschreven. In deel 2 wordt er beeld geschreven van het functionen van de leerlingen de schoolloopbaan. Ook staat hierin beschreven welke maatregelen er al genomen zijn op dat moment  en wat de behoeften zijn die zorgen voor het schrijven van het verslag.
 De leerling kan zich daarna inschrijven voor het buitengewoon onderwijs en er komen geen ander toelatingsvoorwaarden meer bij. Dit wilt echten niet zeggen dat d leerling niet kan ingeschreven worden in het gewone onderwijs, die keuze ligt op dat moment bij de ouders. Als de leerling toch de school verlaat om buitengewoon onderwijs te gaan volgen krijgen de ouders het aangemaakte dossier terug. Als het verslag niet meer volledig is of oncorrect kan het ook worden opgeheven. 
-Bij Type 3,6,4,9 en 7 is er medisch onderzoek nodige dit wordt daarna toegevoegt aan het leerlingendossier 
+Bij Type 3,6,4,9 en 7 is er medisch onderzoek nodige dit wordt daarna toegevoegt aan het leerlingendossier. 
 
-CI
 
-Een Cocleair Implantaat ook wel een CI genoemd is een elektrisch implantaatje dat geluid omzet naar elektrische impulsen die de
-Het implantaat zet geluid om naar elektrische impulsen die het slakkenhuis of gehoorzenuw stimuleren. De functie van duizende trilhaartjes binnen het oor kunnen worden overgenomen door maximaal 24 elektroden die, via rechtstreekse stimulatie 
+===== gehoorondersteuning =====
 
+1. ==== Cochleair implantaat ====
+
+
+Een cochleair implantaat is een implantaat (elektronisch) waarbij er elektrische impulsen worden gestuurd naar de gehoorzenuw of het slakkenhuis. Door middel van directe stimulatie tegen het slakkenhuis kunnen personen die geen of weinig restgehoor hebben toch in beperkte hoeveelheden klanken, geluiden en spraak weer waarnemen.  de elektrische impuslen nemen de functie van de trilhaartjes in het binnen- ,midden- en buitenoor over. 
+
+=== 1.2 geschiedenis en ontwikkeling ===
+
+De werking van elektriciteit in combinatie met het gehoor werd voor het eerst ontdekt in 1970. In het begin van de 20ste eeuw werd het geluidsversterkende hoortoestel uitgevonden en ontwikkelt. In 1957 werd er voor het eerst een directe stimulatie van het slakkenhuis uitgevoerd. Dit door André Djourno en Charles Eyriès. 
+Djourno, geboren in Algerije in 1904, was een dokter. Hij studeerde in Algerije en verhuisde naar parijs. Hij was een leerkracht aan de medische universiteit van Parijs maar ontwikkelde zich doorheen de jaren voornamelijk in het onderzoeken naar fysiologie en de toepassingen van elektriciteit. HIj voerde experimenten uit over lichamelijke reacties van elektriciteit. Toch dacht hij er al over om via elektrische impulsen binnen het oor terug te ondersteunen om te kunnen horen. Dit kwam ook tot werkelijkheid wanneer Charles Eyriès hem kwam opzoeken. Eyriès kende een 50 jarige patient die zijn geloof langs 2 kanten was verloren en zogoed als een geheel verlamd gezicht. Eyriès probeerde met plaatselijke verdoving de gezichtszenuw te herstellen en gebruikte hierbij een vorm van diathermie ( een techniek die gebruik maakt van elektrisch opgewekte warmte). ook onderzocht hij het binnenoor van de patient. BIj het gebruik van de diathermie leek het er op te lijken dat de patient kon horen. Dit vermelde de patient later ook tegen de beide dokters. Samen met Djourno  bouwde hij een eerste vorm van een CI (Cochleair implantaat
 
 
 
