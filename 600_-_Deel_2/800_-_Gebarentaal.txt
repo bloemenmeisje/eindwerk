@@ -5,13 +5,26 @@ Creation-Date: 2021-02-15T20:37:25+01:00
 ====== 800 - Gebarentaal ======
 Gemaakt maandag 15 februari 2021
 
-====== 2. gebarenschrift ======
+===== geschiedenis van gebarentaal =====
+
+
+vroege geschiedenis 
+
+Eeuwenlang werden doven of slechthorende mensen gezien als minderen. Ze konden moeilijk praten of zelfs helemaal niet. de weinige mensne die wel konden prate hadden een zwaar accent omdat e de klank niet kunnen horen en dus ook moeilijk kunnen nabootsen. Als gevolg hiervan werden ze gezien als gezanten van de duivel, mensen die een zonde waren beaan die zo zwaar is dat ze door god waren gestrafd of mensen zonder intelligentie.
+doven en slechthorenden  stondne dus vaak buitende directe maatschappij en zochten kracht bij elkaar op. Voormoedelijk ontstonden hier de eerste vormen van gebarentaal.
+
+ Hoewel doofheid als een goddelijke straf werd gezien kwamen de eerste poging om te onderwijzen in deze "speciale" taal ook vanuit de religeuze hoek. Dankzij de pogingen van Pedro Ponce, een spaanse benedictijnse monnik, leerde enkele dove mensen toch praten. Deze maniervan onderwijs bestond uit een combinatie van schrijven en  liplezen. toch schreef hij de precieze onderwijmethode niet op en toen hij in 1584 overleed bleef er dus ook niet veel van de methode over.
+Rond deze periode strijdde Gerolamo Cardano, een intalliaanse wetenschapper, ervoor dat doofheid geen teken is van domheid en hij toonde hierbij aan dat doven en slechthorenden prima konden leren lezen en schrijven
+
+buiten Europa	
+
+===== gebarenschrift =====
 
 Gebarenschrift wordt gebruikt  voor het lezen, schrijven, getallen leren, onderzoeken en verhalen te vertellen uit de gebarentaal.
 Het gebruik van geschrevn gebarentaal bevordert de standaart taal. Ook is het een goedkoper en praktischer alternatief voor video's. HEt kan gebruikt worden in alle vakken op school en het creëert taalbewustzijn. 
 Het heeft dus veel voordelen om het aan te bieden aan kinderen.
 
-=== 2.1 manieren van gebarenschrift ===
+=== 1 manieren van gebarenschrift ===
 
 * The stokoe System :
   Deze notatie is het eerste fonemische schrift dat voor gebarentaal  gebruikt werd. William Stokoe was diegene die deze notatie voor de amerikaanse gebarentaal (ASL) ontwikkelde. Het is gebaseerd op  het Latijnse Alfabet. Het is horizontaal geschreven van links naar rechts.
