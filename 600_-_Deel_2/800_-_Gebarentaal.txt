@@ -47,8 +47,18 @@ Het heeft dus veel voordelen om het aan te bieden aan kinderen.
 === 1 manieren van gebarenschrift ===
 
 * The stokoe System :
-  Deze notatie is het eerste fonemische schrift dat voor gebarentaal  gebruikt werd. William Stokoe was diegene die deze notatie voor de amerikaanse gebarentaal (ASL) ontwikkelde. Het is gebaseerd op  het Latijnse Alfabet. Het is horizontaal geschreven van links naar rechts.
+Deze notatie is het eerste fonetische schrift dat voor gebarentaal  gebruikt werd. William Stokoe was diegene die deze notatie voor de amerikaanse gebarentaal (ASL) ontwikkelde. Het is gebaseerd op  het Latijnse Alfabet. Het is geen notatie die bedoelt is voor dagelijks gebruik. De notatie is horizontaal geschreven van links naar rechts. Hieronder vind je een pasage van goudlokje vertaalt naar het stokoe notatie:
 
+{{~/klas 12 + eindwerk/eindwerk/figuren/Stokoe_passage.gif}}
+
+* HamNoSys :
+Dit systeem werd ontwikkelt door een combinatie van een groep horende en dove mensen aan de universiteit van hamburg in Duitsland. HamNoSys staat voor Hamburg Sign Language Notation System. Het is een geschrift dat kan gebruikt worden voor alle gebarentalen met een directe samenhang tussen gebaaraspecten (Handlocatie, handvorm en handbeweging) en symbolen De eerste vorm werd in gebruik gesteld in 1985. De notatie bestaat uit meer dan 200 symbolen.
+Het is een internationaal systeem maar is niet gemaakt als een praktisch schrijfsyteem. Het systeem bevat details die niet belangrijk zijn in het gebruik van een taal maar wel die wel nuttig en belangrijk zijn voor taalkundigen en wetenschappers. Het is dan ook de bedoeling om het geschrift enkel op wetenschappelijk niveau te gebruiken. In 2020 werd er een vierde revisie uitgevoert en kan het op die manier verder gebruikt worden. 
+
+* Gloss :
+Dit systeem is een veelgebruikte vorm van notatie. ook in gebarentaalonderwijs voor volwasselen wordt die veel gebruikt. Het Principe is dat een gebaar een woord voorsteld. Het gesproken woord wordt in kleine letters geschreven, het gebaar in hoofdletters.
+vb. 'fiets' is het gesproken woord en 'FIETS' stelt het gebaar voor.
+Ook kan het woord worden aangeduid voor vingerspelling. DIt gebeurt door tussen iedere letter een koppelteken te plaatsen ( vb. 'F-I-E-T-S').
 
 Verwerken van Gebarentaal 
 
