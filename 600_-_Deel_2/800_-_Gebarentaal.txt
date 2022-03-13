@@ -60,6 +60,12 @@ Dit systeem is een veelgebruikte vorm van notatie. ook in gebarentaalonderwijs v
 vb. 'fiets' is het gesproken woord en 'FIETS' stelt het gebaar voor.
 Ook kan het woord worden aangeduid voor vingerspelling. DIt gebeurt door tussen iedere letter een koppelteken te plaatsen ( vb. 'F-I-E-T-S').
 
+(kasterlinden - wat is gebarenschrift p.6, 7)
+
+In vlaanderen wordt er gebruik gemaakt van een heel ander systeem: GebarenSchrift. Het is een sterk visueel ondersteunt systeem waar woorden niet worden gebruikt om gebaren op te schrijven. Op deze schrijfwijze kopiert het eigenlijk exact wat men ziet o papier. Dit betekent dus dat zogoed als alle details zijn weergegeven.  De handvorm, orientatie, beweging, articulatieplaats, gelaatsuitdrukkingen en andere non-verbale elementen zoals snelheid worden getoond.
+{{~/klas 12 + eindwerk/eindwerk/figuren/GebarenSchrift.png}}
+
+
 Verwerken van Gebarentaal 
 
 Idee van verwerkedn gedeelte:
