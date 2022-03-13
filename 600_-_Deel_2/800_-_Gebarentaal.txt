@@ -62,9 +62,16 @@ Ook kan het woord worden aangeduid voor vingerspelling. DIt gebeurt door tussen 
 
 (kasterlinden - wat is gebarenschrift p.6, 7)
 
-In vlaanderen wordt er gebruik gemaakt van een heel ander systeem: GebarenSchrift. Het is een sterk visueel ondersteunt systeem waar woorden niet worden gebruikt om gebaren op te schrijven. Op deze schrijfwijze kopiert het eigenlijk exact wat men ziet o papier. Dit betekent dus dat zogoed als alle details zijn weergegeven.  De handvorm, orientatie, beweging, articulatieplaats, gelaatsuitdrukkingen en andere non-verbale elementen zoals snelheid worden getoond.
-{{~/klas 12 + eindwerk/eindwerk/figuren/GebarenSchrift.png}}
+=== 2. Gebarenschrift in vlaanderen ===
 
+In vlaanderen wordt er gebruik gemaakt van een heel ander systeem: GebarenSchrift. 
+Het is een sterk visueel ondersteunt systeem waar woorden niet worden gebruikt om gebaren op te schrijven. Op deze schrijfwijze kopiert het eigenlijk exact wat men ziet o papier. Dit betekent dus dat zogoed als alle details zijn weergegeven. 
+De handvorm, orientatie, beweging, articulatieplaats, gelaatsuitdrukkingen en andere non-verbale elementen zoals snelheid worden getoond.
+{{~/klas 12 + eindwerk/eindwerk/figuren/GebarenSchrift.png}}
+Met deze vorm van gebarenschrift kan er niet alleen nationaal maar ook internationaal gewerkt worden. Op enkele uitzonderingen worden de meeste basissymbolen ook gebruikt in het Engels, Duits, Frans, Deens en Spaans. De lijst van symbolen noemen we ook wel een alfabet. Net zoals in Romeins alfabet zijn het een groep symbolen waarvan iedereen weet wat ze betekenen en dat is eigenlijk hetzelfde principe bij het GebarenSchrift.
+Zo maakt dit geschrift het dan ook mogelijk om boeken, kranten, tijdschriften, woordenboeken en literatuur te produceren in gebaren. Dit kan dan ook helpen in scholen als hulp bij wiskunde,geschiedenis of nederlands bij gebruikers van het gebarenschrift. Natuurlijk kan het ook helpen bij beginners in de grammatica van gebarentaal.
+
+== Hoe schrijf je dan in GebarenSchrift ? ==
 
 Verwerken van Gebarentaal 
 
