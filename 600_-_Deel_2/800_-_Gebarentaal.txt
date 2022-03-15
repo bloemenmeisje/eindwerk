@@ -29,18 +29,28 @@ In vlaanderen beheersen zevenduizend mensen  VGT als een 2de taal en zesduizend 
 
 De Vlaamse Gebarentaal heeft enkele onderdelen dat hen een volledige, zelfstandige taal maken. Hieronder valt gebarenschat, gramatica, naamgebaren, mondbeeld en vingerspelling.
 
-Vingerspelling
+=== Vingerspelling ===
 
 Vingerspellen wordt gebruikt voor woorden en namen waar nog geen vast gebaar voor is te spellen. Dit aan de hand van een handalfabet, een verzameling gebaren waar iedere letter van het alfabet een ander gebaar uitbeeld. Ook wordt het gebruikt voor afkortingen
+
 Er kunnen ook verschilllen zijn in vingerspellen tussen landen. In Engeland gebaren ze namelijk vaak 2 handen terwijl we in vlaanderen en nederland maar een enkel hand gebruiken. In het nederlandse handalfabet zijn er echter een aantal kleine verschillen met het vlaamse handalfabet. Het wilt dus niet zeggen dat als je eenzelfde landstaal hebt dat je ook een gelijk handalfabet gebruikt.
+Ook om cijfers voor te stellen worden je handen gebruikt.
 
+{{~/klas 12 + eindwerk/eindwerk/figuren/vlaamse gebarentaal cijfers.png}}
 
-naamgebaren
+=== Naamgebaren ===
 
-naamgebaren worden gegeven door iemand in de 
+Een naamgebaar wordt gebruikt voor een vervanging van het vingerspellen bij eigennamen. ieder naamgebaar is anders en je kan het niet van iedereen zomaar krijgen. Het kan enkel worden gegeven door mensen die zelf slechthorend zijn of doof zijn. Meestal wordt dit gebaar ook gegevn door personen die dicht bij je staan of je goed kennen. Dit omdat ze vaak gebasseerd zijn op uiterlijke kenmerken of karaktertrekken.
+Niet iedereen krijgt een officieel naamgebaar. Vele naamgebaren worden onderling tussen familie en vrienden gebruikt en niet in formele omstandigheden. In formele gebeurtenissen wordt de naam toch nog met vingerspelling uitgebeeld.
+Mensen die erg belangrijk zijn en veel in de actualiteit voorkomen krijgen wel een oficieel naamgebaar. Zo kregen Marc van Ranst en Steven Van Gucht in 2020 een eigen naamgebaar. Ze kwamen op dat moment zo goed als iedere dag in de actualiteit. Beide gebaren ontstonden onderling en werden in een groepchat voor doven goedgekeurt. Zonder duidelijk overleg met token zijn ze de gebaren toch beginnen te gebruiken tijdens persconferenties.  
+Het gebaar voor Steven van Gucht bestaat uit een tolk die haar of zijn duim onder de onderlip houdt en daarbij een neerwaartse bewegingmaakt. Dit is een verwijzing naar een litteken van de viroloog op die plek. 
+Bij het gebaar van Mark van Ranst maakt de tolk een 'v -gebaar' op e borst. Dit verwijst naar de truien met een v-hals die hij altijd draagt.
+Naamgebaren zijn echter niet enkel voor namen van mensen, landen, gebieden, steden, merken, winkels en bekende gebouwen krijgen ook hun eigen naamgebaar. Zo heeft McDonalds een gebaar waar ze een 'm' in lopend schrift uitbeelden. Dit lijkt ook op de 'm' in het logo. Nog een voorbeeld is het naamgebaar voor het amazonewoud. Dit bestaat uit een gebaar waarbij het lijkt dat je  zweet van je voorhoofd probeert te vegen. Dit is gebasseerd op het klimaat en de warmte. En Zo kan je nog best lang doorgaan. 
+Als je niet zeker bent of er een naamgebaar bestaat of je weet het niet, dan kan je de naam met behulp van vingerspelling spellen en op die manier aangeven wie of wat je het hebt.
+
  
 
-===== gebarenschrift =====
+=== gebarenschrift ===
 
 Gebarenschrift wordt gebruikt  voor het lezen, schrijven, getallen leren, onderzoeken en verhalen te vertellen uit de gebarentaal.
 Het gebruik van geschrevn gebarentaal bevordert de standaart taal. Ook is het een goedkoper en praktischer alternatief voor video's. HEt kan gebruikt worden in alle vakken op school en het creëert taalbewustzijn. 
@@ -73,7 +83,7 @@ De handvorm, orientatie, beweging, articulatieplaats, gelaatsuitdrukkingen en an
 Met deze vorm van gebarenschrift kan er niet alleen nationaal maar ook internationaal gewerkt worden. Op enkele uitzonderingen worden de meeste basissymbolen ook gebruikt in het Engels, Duits, Frans, Deens en Spaans. De lijst van symbolen noemen we ook wel een alfabet. Net zoals in Romeins alfabet zijn het een groep symbolen waarvan iedereen weet wat ze betekenen en dat is eigenlijk hetzelfde principe bij het GebarenSchrift.
 Zo maakt dit geschrift het dan ook mogelijk om boeken, kranten, tijdschriften, woordenboeken en literatuur te produceren in gebaren. Dit kan dan ook helpen in scholen als hulp bij wiskunde,geschiedenis of nederlands bij gebruikers van het gebarenschrift. Natuurlijk kan het ook helpen bij beginners in de grammatica van gebarentaal.
 
-== Hoe schrijf je dan in GebarenSchrift ? ==
+== 3. Hoe schrijf je dan in GebarenSchrift ? ==
 
 Verwerken van Gebarentaal 
 
