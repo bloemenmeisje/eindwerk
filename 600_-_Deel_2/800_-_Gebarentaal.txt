@@ -31,7 +31,9 @@ De Vlaamse Gebarentaal heeft enkele onderdelen dat hen een volledige, zelfstandi
 
 === Vingerspelling ===
 
-Vingerspellen wordt gebruikt voor woorden en namen waar nog geen vast gebaar voor is te spellen. Dit aan de hand van een handalfabet, een verzameling gebaren waar iedere letter van het alfabet een ander gebaar uitbeeld. Ook wordt het gebruikt voor afkortingen
+Vingerspellen wordt gebruikt voor woorden en namen waar nog geen vast gebaar voor is te spellen. Dit aan de hand van een handalfabet, een verzameling gebaren waar iedere letter van het alfabet een ander gebaar uitbeeld. Ook wordt het gebruikt voor afkortingen.
+
+{{~/klas 12 + eindwerk/eindwerk/figuren/Vlaams-Handalfabet_letters.png}}
 
 Er kunnen ook verschilllen zijn in vingerspellen tussen landen. In Engeland gebaren ze namelijk vaak 2 handen terwijl we in vlaanderen en nederland maar een enkel hand gebruiken. In het nederlandse handalfabet zijn er echter een aantal kleine verschillen met het vlaamse handalfabet. Het wilt dus niet zeggen dat als je eenzelfde landstaal hebt dat je ook een gelijk handalfabet gebruikt.
 Ook om cijfers voor te stellen worden je handen gebruikt.
