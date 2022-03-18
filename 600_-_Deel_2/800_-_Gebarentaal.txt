@@ -21,15 +21,16 @@ In 2006 werd de Vlaamse Gebarentaal (VGT) een officiele landstaal. Dit gebeurde 
 
 ===== Vlaamse gebarentaal, wat is dat eigenlijk? =====
 
-De vlaamse gebaretaal, in de volksmond vaakt vernoemd als VGT, is een natuurlijke taal. Het is dus geen universele taal zoals Esperanto. Iedere dovengemeenschap heeft zijn eigen gebarentaal. Nochtans dat de meeste gebarentalen uit dezelfde taal ontstaan, wilt het niet zeggen dat ze vergelijkbaar zijn met elkaar. In een taal is er een hoofdtaal en daaronder vallen dialecten.
+De vlaamse gebaretaal, in de volksmond vaakt vernoemd als VGT, is een natuurlijke taal. Het is een visuele of fonologische taal met hun eigen grammatica en gebarenschat.  Het is dus geen universele taal zoals Esperanto. Iedere dovengemeenschap heeft zijn eigen gebarentaal. Nochtans dat de meeste gebarentalen uit dezelfde taal ontstaan, wilt het niet zeggen dat ze vergelijkbaar zijn met elkaar. In een taal is er een hoofdtaal en daaronder vallen dialecten.
 We leren op school algemeen Nederlands maar in iedere provincie zijn er meerdere vormen van diaclecten. Dit zien we terug in gebarentalen. In de Vlaamse gebarentaal is er een algemene afspraak in gebarenschat en gramatica maar er zijn ook 5 varianten: de Antwerpse, West-Vlaamse, Oost-Vlaamse, Limburgse en de Vlaams-Brabantse variant.
 In vlaanderen beheersen zevenduizend mensen  VGT als een 2de taal en zesduizend mensen  beheersen VGT als moedertaal. 
+
 
 ==== Onderdelen VGT ====
 
 De Vlaamse Gebarentaal heeft enkele onderdelen dat hen een volledige, zelfstandige taal maken. Hieronder valt gebarenschat, gramatica, naamgebaren, mondbeeld en vingerspelling.
 
-=== Vingerspelling ===
+=== • Vingerspelling ===
 
 Vingerspellen wordt gebruikt voor woorden en namen waar nog geen vast gebaar voor is te spellen. Dit aan de hand van een handalfabet, een verzameling gebaren waar iedere letter van het alfabet een ander gebaar uitbeeld. Ook wordt het gebruikt voor afkortingen.
 
@@ -40,7 +41,7 @@ Ook om cijfers voor te stellen worden je handen gebruikt.
 
 {{~/klas 12 + eindwerk/eindwerk/figuren/vlaamse gebarentaal cijfers.png}}
 
-=== Naamgebaren ===
+=== • Naamgebaren ===
 
 Een naamgebaar wordt gebruikt voor een vervanging van het vingerspellen bij eigennamen. ieder naamgebaar is anders en je kan het niet van iedereen zomaar krijgen. Het kan enkel worden gegeven door mensen die zelf slechthorend zijn of doof zijn. Meestal wordt dit gebaar ook gegevn door personen die dicht bij je staan of je goed kennen. Dit omdat ze vaak gebasseerd zijn op uiterlijke kenmerken of karaktertrekken.
 Niet iedereen krijgt een officieel naamgebaar. Vele naamgebaren worden onderling tussen familie en vrienden gebruikt en niet in formele omstandigheden. In formele gebeurtenissen wordt de naam toch nog met vingerspelling uitgebeeld.
@@ -50,9 +51,25 @@ Bij het gebaar van Mark van Ranst maakt de tolk een 'v -gebaar' op e borst. Dit 
 Naamgebaren zijn echter niet enkel voor namen van mensen, landen, gebieden, steden, merken, winkels en bekende gebouwen krijgen ook hun eigen naamgebaar. Zo heeft McDonalds een gebaar waar ze een 'm' in lopend schrift uitbeelden. Dit lijkt ook op de 'm' in het logo. Nog een voorbeeld is het naamgebaar voor het amazonewoud. Dit bestaat uit een gebaar waarbij het lijkt dat je  zweet van je voorhoofd probeert te vegen. Dit is gebasseerd op het klimaat en de warmte. En Zo kan je nog best lang doorgaan. 
 Als je niet zeker bent of er een naamgebaar bestaat of je weet het niet, dan kan je de naam met behulp van vingerspelling spellen en op die manier aangeven wie of wat je het hebt.
 
- 
+=== •  Gebarenschat ===
 
-=== gebarenschrift ===
+Wat is dat eigenlijk gebarenschat?
+Gebarenschat is een verzameling van alle gebaren die mensen gebruiken, net zoals horende mensen woordenschat hebben. Men spreekt in het onderwijs weleens van kinderen met een grote woordenschat, dat wil zeggen dat het kind al veel woorden beheert, snapt en kan gebruiken. Dit geldt ook voor gebarenschat. Hoe meer gebarenschat je bezit hoe meer gebaren je snapt en beheert. DIt geeft als gevolg dat slechthorende en dove kinderen, jongeren en volwassenenen met een grotere gebarenschat moeilijkere conversaties zullen kunnen begrijpen en zelf uitvoeren.
+
+=== • mondbeeld en handvorm ===
+Een mondbeeld kennen we ook in taal die gesproken wordt. Het overkoepelt meerdere technieken die het mogelijk maken duidelijk en goed te spreken. Aan de hand van deze technieken kunnnen articulatie en geluid worden versterkt. Deze technieken zijn dan ook belangrijk als men praat met mensen die liplezen ter ondersteuning. In het Nederlands zijn er maar 30 à 40% van de geluiden zichtbaar. Een mondbeeld is dus erg belangerijk als ondersteuning.
+Een handvorm is eigenlijk exact wat het woord beschrijft. Het is de vorm die de hand aanneemt tijdens het maken van een gebaar. Het gaat echter niet over de gehele hand maar meer over de constructie en vorm van de geselcteerde vinger. Het is een fonologische eigenschap van Gebarentaal.
+
+=== • orientatie en articulatieplaats ===
+Beide zijn erg belangrijk in het gebaren van zinnen en gebaren. Als ze niet juist worden uitgevoerd kunnen de gebaren andere betekenissen hebben en kan het gesprek geen duidelijkheid bieden. Als men spreekt over orientatie dan bedoelt men de plaats van de handpalm en de vingers zijn geplaatst tegenover het lichaam. Bij de articulatieplaats bedoelt men de effectieve plaats van het gebaar tegenover het lichaam. 
+Je zou dus kunnen zeggen dat de orientatie een onderdeel is van de articulatieplaats. Beide hangen ook samen met de handvorm en mondbeeld. Allen tesamen vormen ze een groot onderdeel van lexicon in deze visuele taal.
+
+=== • grammatica ===
+Iedere vorm van taal  wordt  gevormd met behulp van  grammatica, zo ook gebarentaal. Er zjn dan ook enkele grote verschillen met een gesproken taal. 
+Een duidelijk verschil is bevoorbeeld dat werkwoorden in gebarentaal niet vervoegt worden. Tijden worden aangegeven met tijdsgebonden gebaren zoals 'vroeger', 'morgen' en 'nu'. 
+Ook zinnen worden anders opgebouwd. Je zou kunnen zeggen dat zinnen in gebarentaal een tekening zijn. 'De vis zwemt in de rivier' wordt dan 'rivier vis zwemmen', omdat als je die zin tekent zou je eerst de rivier tekenen en daarna de vis. Pas  daarna kan je de actie toekennen.
+
+=== • gebarenschrift ===
 
 Gebarenschrift wordt gebruikt  voor het lezen, schrijven, getallen leren, onderzoeken en verhalen te vertellen uit de gebarentaal.
 Het gebruik van geschrevn gebarentaal bevordert de standaart taal. Ook is het een goedkoper en praktischer alternatief voor video's. HEt kan gebruikt worden in alle vakken op school en het creëert taalbewustzijn. 
