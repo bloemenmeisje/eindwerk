@@ -6,10 +6,9 @@ Creation-Date: 2021-02-15T20:40:54+01:00
 Gemaakt maandag 15 februari 2021
 
 == websites: ==
-* https://www.eoswetenschap.eu/psyche-brein/waarom-doven-uit-vlaanderen-de-nederlandse-tolk-niet-begrijpen
-* https://www.kno.nl/patienten-informatie/oor/plotselinge-doofheid/
-* uzleuven https://www.uzleuven.be/nl/gehoorverlies
-* wikipedia.org: Dovenschool. Geraadpleegt op 24/06/2021 via: https://nl.wikipedia.org/wiki/Dovenschool#Dovenscholen_in_Belgi%C3%AB
+* eoswetenschap.eu: waarom doven uit vlaanderen de nederlandse tolk niet begrijpen. geraadpleegt op 17/06/2021 https://www.eoswetenschap.eu/psyche-brein/waarom-doven-uit-vlaanderen-de-nederlandse-tolk-niet-begrijpen +
+* kno.nl: plotselinge doofheid. geraadpleegt op 15/02/2021via: https://www.kno.nl/patienten-informatie/oor/plotselinge-doofheid/
+* ikipedia.org: Dovenschool. Geraadpleegt op 24/06/2021 via: https://nl.wikipedia.org/wiki/Dovenschool#Dovenscholen_in_Belgi%C3%AB
 * onderwijskierer.be: BuBaO type 7. Geraadpleegt op 16/05/2021 via: https://www.onderwijskiezer.be/v2/basis/basis_buo_detail.php?detail=20
 * belgium.be: leren, buitengewoon onderwijs. Geraadpleegt op 15/05/2021 via: https://www.belgium.be/nl/Leren/onderwijs/buitengewoon_onderwijs
 * doof.nl: vingerspellen. geraadpleegt op 15/03/2022 via : https://www.doof.nl/hoorbibliotheek/taal/vingerspellen/
